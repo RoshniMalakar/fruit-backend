@@ -7,7 +7,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/mango.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/mango.jfif",
     qty: 1,
   },
   {
