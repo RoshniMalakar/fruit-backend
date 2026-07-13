@@ -18,7 +18,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/orange.jfif",
+    image: "/image/orange.jfif",
     qty: 1,
   },
   {
@@ -29,7 +29,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/pomegranate.jfif",
+    image: "/image/pomegranate.jfif",
     qty: 1,
   },
   {
@@ -40,7 +40,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/straw.jfif",
+    image: "/image/straw.jfif",
     qty: 1,
   },
   {
@@ -51,7 +51,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/apple.jfif",
+    image: "/image/apple.jfif",
     qty: 1,
   },
   {
@@ -62,7 +62,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/cherry.jfif",
+    image: "/image/cherry.jfif",
     qty: 1,
   },
   {
@@ -73,7 +73,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/grape.jfif",
+    image: "/image/grape.jfif",
     qty: 1,
   },
   {
@@ -84,7 +84,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/guava.jfif",
+    image: "/image/guava.jfif",
     qty: 1,
   },
   {
@@ -95,7 +95,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/banana.jfif",
+    image: "/image/banana.jfif",
     qty: 1,
   },
   {
@@ -106,7 +106,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/papaya.jfif",
+    image: "/image/papaya.jfif",
     qty: 1,
   },
   {
@@ -117,7 +117,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/melon.jfif",
+    image: "/image/melon.jfif",
     qty: 1,
   },
   {
@@ -128,7 +128,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/pine.jfif",
+    image: "/image/pine.jfif",
     qty: 1,
   },
   {
@@ -139,7 +139,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/pear.jfif",
+    image: "/image/pear.jfif",
     qty: 1,
   },
   {
@@ -150,7 +150,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/peach.jfif",
+    image: "/image/peach.jfif",
     qty: 1,
   },
   {
@@ -161,7 +161,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/kiwi.jfif",
+    image: "/image/kiwi.jfif",
     qty: 1,
   },
   {
@@ -172,7 +172,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/coco.jfif",
+    image: "/image/coco.jfif",
     qty: 1,
   },
   {
@@ -183,7 +183,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/litchi.jfif",
+    image: "/image/litchi.jfif",
     qty: 1,
   },
   {
@@ -194,7 +194,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/musk.jfif",
+    image: "/image/musk.jfif",
     qty: 1,
   },
   {
@@ -205,7 +205,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/fig.jfif",
+    image: "/image/fig.jfif",
     qty: 1,
   },
   {
@@ -216,7 +216,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/plum.jfif",
+    image: "/image/plum.jfif",
     qty: 1,
   },
   {
@@ -227,7 +227,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "http://localhost:9000/image/lemon.jfif",
+    image: "/image/lemon.jfif",
     qty: 1,
   },
 ];
