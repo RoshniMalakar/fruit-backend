@@ -95,7 +95,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/banana.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/banana.jfif",
     qty: 1,
   },
   {
@@ -106,7 +106,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/papaya.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/papaya.jfif",
     qty: 1,
   },
   {
@@ -117,7 +117,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/melon.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/melon.jfif",
     qty: 1,
   },
   {
@@ -128,7 +128,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/pine.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/pine.jfif",
     qty: 1,
   },
   {
@@ -139,7 +139,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/pear.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/pear.jfif",
     qty: 1,
   },
   {
@@ -150,7 +150,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/peach.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/peach.jfif",
     qty: 1,
   },
   {
@@ -161,7 +161,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/kiwi.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/kiwi.jfif",
     qty: 1,
   },
   {
@@ -172,7 +172,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/coco.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/coco.jfif",
     qty: 1,
   },
   {
@@ -183,7 +183,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/litchi.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/litchi.jfif",
     qty: 1,
   },
   {
@@ -194,7 +194,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/musk.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/musk.jfif",
     qty: 1,
   },
   {
@@ -205,7 +205,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/fig.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/fig.jfif",
     qty: 1,
   },
   {
@@ -216,7 +216,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/plum.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/plum.jfif",
     qty: 1,
   },
   {
@@ -227,7 +227,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/lemon.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/lemon.jfif",
     qty: 1,
   },
 ];
