@@ -18,7 +18,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/orange.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/orange.jfif",
     qty: 1,
   },
   {
@@ -29,7 +29,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/pomegranate.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/pomegranate.jfif",
     qty: 1,
   },
   {
@@ -40,7 +40,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/straw.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/straw.jfif",
     qty: 1,
   },
   {
@@ -51,7 +51,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/apple.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/apple.jfif",
     qty: 1,
   },
   {
@@ -62,7 +62,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/cherry.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/cherry.jfif",
     qty: 1,
   },
   {
@@ -73,7 +73,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/grape.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/grape.jfif",
     qty: 1,
   },
   {
@@ -84,7 +84,7 @@ const products = [
     rating: "5",
     review: "sweetest fruit",
     category: "Fruit",
-    image: "/image/guava.jfif",
+    image: "https://fruit-backend-d30x.onrender.com/image/guava.jfif",
     qty: 1,
   },
   {
